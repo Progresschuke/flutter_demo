@@ -1,6 +1,6 @@
 # expense_tracker_app
 
-A new Flutter project.
+This is an Expense Tracker App; an application that keeps tabs on your spending habits. But that's not all- the app also creates a visually stunning chart that highlights your greatest expenses, so you can make informed decisions and take charge of your financial future.
 
 ## Getting Started
 
