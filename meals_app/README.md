@@ -1,4 +1,4 @@
-# meals_app
+# Meal Recipe App
 
 This Meal Recipe App offer its users a diverse range of meal options through an extensive recipe collection. It simplifies the time-consuming process of scouring the internet for meal ideas and recipes. The meals are thoughtfully categorized, allowing users to seamlessly access the details of their selected dishes with a simple tap.
 
