@@ -32,9 +32,10 @@ migrate_working_dir/
 .pub/
 /build/
 /assets/
-/ios/android/
-/screens/payment/
-/widgets/search_list/
+/ios/
+/android/
+/lib/screens/payment/
+/lib/widgets/search_list/
 
 # Symbolication related
 app.*.symbols
